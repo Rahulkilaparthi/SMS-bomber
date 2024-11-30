@@ -45,12 +45,6 @@ Only for Indian Number (+91)
 ```
 
 
-  ## Features :
-  - Cool UI
-  - Author Info
-  - 100+ Working Termux Tools
-  - Install any tool with single commands !
-  - and much more..
 
 
 
