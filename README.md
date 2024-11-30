@@ -36,6 +36,9 @@ cd otpbomber &&
 bash smsbomb.sh
 ```
 
+![smsbomber](https://github.com/user-attachments/assets/e26ec524-76af-4451-b2ca-715bddd627de)
+
+
 ## Note :-
 ```
 Only for Indian Number (+91)
