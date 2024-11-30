@@ -31,7 +31,7 @@ Or
 
 ```
 pkg install git -y &&
-git clone https://github.com/Bhai4You/otpbomber &&
+git clone https://github.com/Rahulkilaparthi/SMS-bomber.git &&
 cd otpbomber &&
 bash smsbomb.sh
 ```
@@ -41,24 +41,14 @@ bash smsbomb.sh
 Only for Indian Number (+91)
 ```
 
-## Termux Tutorials & Learn Cybersecurity
-<center><a href="https://bhai4you.com"><img src="https://raw.githubusercontent.com/Bhai4You/bhai4you/master/termux-tutorials-banner-65e83fe128fd4.webp" alt="Vehicle Osint"  ></a></center>
-<pre> 
-  Features :
+
+  ## Features :
   - Cool UI
   - Author Info
   - 100+ Working Termux Tools
   - Install any tool with single commands !
   - and much more..
 
-  Visit our site :
-  - click on above image or <a href="https://bhai4you.com">bhai4you.com</a> here.
-</pre>
 
-## You may also like...
-
-- [Download Now](https://bit.ly/flashbomberlink) - Flash Bomber Apk
-- [Hackstore](https://sites.google.com/view/hackstoreapk) - A Hackstore Apk
-- [Bhai4You Blog](https://bhai4you.blogspot.com) - Bhai4you Blog
 
 
